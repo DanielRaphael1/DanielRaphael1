@@ -17,6 +17,9 @@ My name is Daniel I am keen to learn things related to Developing, creating, ana
 ![image](https://github.com/user-attachments/assets/b3e67136-76d8-4e52-b278-dc0785b8392c)
 ![image](https://github.com/user-attachments/assets/98ff739e-e2f3-4eb2-b8f7-e9e34bfe0a20)
 ![image](https://github.com/user-attachments/assets/6b40aeeb-ebf6-48ce-8d50-f4bf29944b3e)
+![image](https://github.com/user-attachments/assets/a54017b8-9937-4f16-946a-1b657d857a3e)
+![image](https://github.com/user-attachments/assets/43b4cd2f-4ed6-4d9d-8529-204b80ff1204)
+
 
 
 
