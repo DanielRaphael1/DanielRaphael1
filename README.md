@@ -2,9 +2,9 @@
 
 My name is Daniel I am keen to learn things related to Developing, creating, analyzing, and problem solving
 
-🎯 DevOps | Automation | Coding 
-🛠 Building stuff from zero to production  
-💡 Always learning, always curious
+- 🎯 DevOps | Automation | Coding 
+- 🛠 Building stuff from zero to production  
+- 💡 Always learning, always curious
 
 - 🔭 I’m currently working on an Open Source CRM  customization for a customer
 - ♟️ I'm currently spending my extra free time learning chess.
