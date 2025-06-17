@@ -2,12 +2,11 @@
 
 My name is Daniel I am keen to learn things related to Developing, creating, analyzing, and problem solving
 
-🎯 DevOps | Automation | AI Enthusiast  
+🎯 DevOps | Automation | Coding 
 🛠 Building stuff from zero to production  
 💡 Always learning, always curious
 
-- 🔭 I’m currently working on a OpenAI powered costumer support agent for a client
-- 🌱 I’m currently learning about DevOPS tools and app development (React Native)
+- 🔭 I’m currently working on an Open Source CRM  customization for a customer
 - ♟️ I'm currently spending my extra free time learning chess.
 
 ![image](https://github.com/user-attachments/assets/57561dc2-ce49-4e7d-b33d-1c6e4df45f4f)
