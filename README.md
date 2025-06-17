@@ -19,7 +19,7 @@ My name is Daniel I am keen to learn things related to Developing, creating, ana
 ![image](https://github.com/user-attachments/assets/a54017b8-9937-4f16-946a-1b657d857a3e)
 ![image](https://github.com/user-attachments/assets/43b4cd2f-4ed6-4d9d-8529-204b80ff1204)
 
-[![Top Langs](https://github-readme-stats1-seven-gamma.vercel.app/api/top-langs/?username=DanielRaphael1)](https://github.com/DanielRaphael1/github-readme-stats)
+[![Top Langs](https://github-readme-stats1-seven-gamma.vercel.app/api/top-langs/?username=DanielRaphael1&layout=donut)](https://github.com/DanielRaphael1/github-readme-stats)
 
 ![Header](./gg.png)
 
