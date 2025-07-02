@@ -2,7 +2,7 @@
 
 My name is Daniel I am keen to learn things related to developing, creating, analyzing, and problem solving
 
-- 🎯 DevOps | Automation | Software Development 
+- 🎯 Software Development 
 - 🛠 Building stuff from zero to production  
 - 💡 Always learning, always curious
 
