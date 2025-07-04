@@ -6,7 +6,7 @@ My name is Daniel I am keen to learn things related to developing, creating, ana
 - 🛠 Building stuff from zero to production  
 - 💡 Always learning, always curious
 
-- 🔭 I’m currently working on an Open Source CRM  customization for a customer
+- 🔭 I’m currently working on an Open Source CRM customization 
 - ♟️ I'm currently spending my extra free time learning chess.
 
 ![image](https://github.com/user-attachments/assets/57561dc2-ce49-4e7d-b33d-1c6e4df45f4f)
